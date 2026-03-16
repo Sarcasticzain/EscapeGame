@@ -66,15 +66,6 @@ escape-game/
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of your game here)*
-
-```
-![Gameplay Screenshot](assets/screenshot.png)
-```
-
----
 
 ## 🤝 Contributing
 
